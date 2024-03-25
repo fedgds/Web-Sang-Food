@@ -1,0 +1,17 @@
+{
+    "name": "sango/mvc",
+    "authors": [
+        {
+            "name": "sangla3",
+            "email": "lavansang1264@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
